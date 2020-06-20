@@ -1,7 +1,7 @@
 # Sprachen TwigExtension
 ## simple language related Twig Extensions
 
-Two simple functions for Twig:
+For use with [Grav](https://getgrav.org). Two simple functions for Twig:
 
 1. sprachen
 
@@ -36,3 +36,7 @@ could return:
     [3] => かたかな
     ...
     )`
+
+## Installation w/ Grav
+
+Just copy these files/folders into user/plugins.

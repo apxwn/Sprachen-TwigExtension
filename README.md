@@ -39,4 +39,4 @@ could return:
 
 ## Installation w/ Grav
 
-Just copy these files/folders into user/plugins.
+Create a directory `sprachen` under user/plugins and copy these files/folders in there.
